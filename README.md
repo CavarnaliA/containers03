@@ -91,9 +91,9 @@ exit
 
 ## Библиография
 
-1. Курс Moodle "Контейнеризация и Виртуализация"
+1. Курс Moodle «Контейнеризация и виртуализация»  
    [https://elearning.usm.md/course/view.php?id=6806](https://elearning.usm.md/course/view.php?id=6806)
-2. Docker Desktop — установка (Windows)
-   [https://docs.docker.com/desktop/setup/install/windows-install/?utm_source=chatgpt.com](https://docs.docker.com/desktop/setup/install/windows-install/?utm_source=chatgpt.com)
+2. Docker Desktop — установка (Windows)  
+   [https://docs.docker.com/desktop/setup/install/windows-install/](https://docs.docker.com/desktop/setup/install/windows-install/)
 3. Chat GPT
    [https://chatgpt.com/](https://chatgpt.com/)
